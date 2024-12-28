@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "C4ITcMLPDjhv1SivscPEkZakiuwuxgEZ9Mqb+VRG3wY=",
+  "Source": "Custom-JWT-Token",
+  "BasePath": "_content/Custom-JWT-Token",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
